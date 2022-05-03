@@ -20,7 +20,7 @@ This is my first Frontend.io project using CSS/HTML. The challenge was to recrea
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](screenshot.png)
 
 
 ## My process
